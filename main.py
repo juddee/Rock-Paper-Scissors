@@ -1,6 +1,5 @@
 import random
 
-# game_option =['R','P','S']
 
 
 def computer_move():
